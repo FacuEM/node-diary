@@ -4,7 +4,7 @@
 
 While this is a simple project to respect your time, please approach it as you would in a real production environment, explaining the trade-offs you needed to make in order to finish it in a reasonable time. 
 
-You should be able to complete this project within 4 to 8 hours. This is not a hard limit. Once completed, please provide a rough estimate of how much time you invested into it. ****
+You should be able to complete this project within 4 to 8 hours. This is not a hard limit. Once completed, please provide a rough estimate of how much time you invested into it. 
 
 Feel free to ask any question to Loopstudio via email. 
 
