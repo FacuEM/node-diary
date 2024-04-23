@@ -1,4 +1,4 @@
-# jr-backend-challenge
+# backend-challenge
 
 ### Instructions
 
